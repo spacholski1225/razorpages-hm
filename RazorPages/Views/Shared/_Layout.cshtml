@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Styles/Site.css" rel="stylesheet" />
+    <title>
+        Nauka Razor Pages @if (ViewData.ContainsKey("Title"))
+        {
+            Write(" - " + ViewData["Title"]);
+        }
+    </title>
+
+</head>
+<body>
+    @RenderBody()
+    @RenderSection("Scripts", false)
+</body>
+</html>

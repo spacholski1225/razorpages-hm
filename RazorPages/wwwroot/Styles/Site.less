@@ -1,0 +1,26 @@
+﻿.custom-border() {
+    border: 1px solid black;
+    border-spacing: 0px;
+}
+
+body {
+    font: 14px arial, verdana;
+
+    table {
+        .custom-border();
+
+        tr {
+            .custom-border();
+
+            td {
+                .custom-border();
+            }
+
+            th {
+                .custom-border();
+                font-weight: bold;
+                background-color: lightgray;
+            }
+        }
+    }
+}

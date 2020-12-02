@@ -1,0 +1,16 @@
+[
+ {
+   "FirstName": "Andrzej",
+   "LastName": "Duda",
+   "Email": "andrzejduda@wp.pl",
+   "Age": 22,
+   "Gender": 0
+ },
+ {
+   "FirstName": "Krzysztof",
+   "LastName": "Bosak",
+   "Email": "BoskiKrzystof@wp.pl",
+   "Age": 28,
+   "Gender": 0
+ }
+]

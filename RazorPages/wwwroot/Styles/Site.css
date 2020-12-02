@@ -1,0 +1,21 @@
+﻿body {
+  font: 14px arial, verdana;
+}
+body table {
+  border: 1px solid black;
+  border-spacing: 0px;
+}
+body table tr {
+  border: 1px solid black;
+  border-spacing: 0px;
+}
+body table tr td {
+  border: 1px solid black;
+  border-spacing: 0px;
+}
+body table tr th {
+  border: 1px solid black;
+  border-spacing: 0px;
+  font-weight: bold;
+  background-color: lightgray;
+}
